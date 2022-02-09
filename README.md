@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Luca and I'm into competitive programming, Artificial Intelligence and maths.
+
+- 🌱 I’m currently learning Javascript and things related to Web Development.
+
+Some stats:
+
+[![lucametehau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucametehau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=lucametehau) 
+<br>
+(Who actually visits my profile?)
+
+
+
 <!--
 **lucametehau/lucametehau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
