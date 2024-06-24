@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I'm Luca and I'm into competitive programming, Artificial Intelligence and maths.
-
-- 🌱 I’m currently learning Javascript and things related to Web Development.
-
+I am currently enrolled in Ecole Polytechnique's Bachelor Programme, in the first year, soon to be second year.
 Some stats:
 
 [![lucametehau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucametehau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
