@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Luca and I'm into competitive programming, Artificial Intelligence and maths.
-I am currently enrolled in Ecole Polytechnique's Bachelor Programme, in the first year, soon to be second year.
+I'm Luca and I'm into anything related to CS :)
+I am currently enrolled in Ecole Polytechnique's Bachelor Programme, in the 3rd year.
 Some stats:
 
 [![lucametehau's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucametehau&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
